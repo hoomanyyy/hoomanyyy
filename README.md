@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Hooman 👋
 
-<!--
-**hoomanyyy/hoomanyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught software developer interested in **Artificial Intelligence, Web Development, and Software Engineering**.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* JavaScript / React
+* AI & Computer Vision
+* APIs & Backend Development
+* Linux & Networking
+
+### 🚀 Featured Projects
+
+**Hand Tracking Mouse**
+Computer vision project using OpenCV and MediaPipe.
+
+**Windows AI Assistant**
+A Python-based assistant for speech recognition and system automation.
+
+**Xray-V2Ray Panel**
+A web-based management panel built around Linux, networking, and backend development.
+
+### 📌 Currently Learning
+
+* Advanced Python
+* Backend development
+* Artificial Intelligence
+* Mathematics for Computer Science
+
+### 🔗 Links
+
+* Portfolio: https://mywebsite-81a.pages.dev/
+* AI Project: https://hoomangpt.pages.dev/
