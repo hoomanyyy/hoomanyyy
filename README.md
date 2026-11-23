@@ -51,4 +51,4 @@ I design and ship the full product myself, from the agent and the API to the web
 
 ## Contact
 
-For collaboration or questions about Forkwise: **support@forkwiseai.com**
+For collaboration or questions about Forkwise: **info@forkwiseai.com**
