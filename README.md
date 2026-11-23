@@ -43,7 +43,7 @@ I design and ship the full product myself, from the agent and the API to the web
 
 ## Technical skills
 
-**Languages:** Python · JavaScript · TypeScript · SQL · Bash
+**Languages:** Python · JavaScript · SQL · Bash
 **AI:** LLM agents and tool use · retrieval and memory · speech (Whisper) · computer vision (OpenCV, MediaPipe)
 **Backend:** FastAPI · REST and server-sent events · WebSockets · SQLite and MySQL
 **Frontend and apps:** React · Vite · Electron · React Native (Expo)
